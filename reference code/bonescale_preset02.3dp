@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<celsysdocument version="1.0.0">
+
+  <info author="" comment="" tool="Celsys PoseStudio 1.0"/>
+
+  <body_proportion alias_name="" bone_arm="-0.5 -0.5 -0.5" bone_body="-0.5 -0.439999998 -0.439999998" bone_foot="-0.379999995 -0.370000005 -0.370000005" bone_hand="-0.379999995 -0.379999995 -0.379999995" bone_head="-0.0500000007 -0.0500000007 -0.0500000007" bone_leg="-0.5 -0.5 -0.5" bone_neck="-0.270000011 -0.270000011 -0.270000011" dessindoll_kind_index="0" shape_child="0" shape_fat="0" shape_muscle="0" shape_thin="0" version="1.0.0"/>
+
+</celsysdocument>
